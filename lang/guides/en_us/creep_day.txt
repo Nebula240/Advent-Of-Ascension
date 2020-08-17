@@ -1,6 +1,6 @@
-Creep Day (Event)
+Dia del Creep (Evento)
 
 "The hissing sounds begin."
-C.R.E.E.P has sent his heralds. This is not a good time to be in the business of fine china or glass.
+C.R.E.E.P ha enviado a sus heraldos, pero no es buen tiempo para tomar un té con ellos.
 
-During Creep Day, Creeper Hosts will spawn occasionally across the land. These hosts aren't very dangerous on their own, but the never-ending stream of Creepers that they bring with them can ruin even the most prepared adventurer.
+Durante el Dia del Creep, los Creeper Hosts rondarán a traves del mundo, estos huespedes no son muy peligrosos, pero su capacidad para hacer aparecer Creepers sin limite es lo que le trae ruina hasta al aventurero más preparado.
