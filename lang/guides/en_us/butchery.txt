@@ -1,6 +1,6 @@
-Butchery (Skill)
+Carnicero (Habilidad)
 
-Bloodlust. Delicious, destructive bloodlust. Butchery is all about dealing damage, and dealing as much of it as possible. Occasionally, when you are meleeing a target, a little red orb will drop off and start floating away. This is bloodlust. Grab it to gain some Butchery xp
+Sed de sangre. Deliciosa sed de sangre. La habilidad de Carnicero es todo sobre hacer daño, mucho daño. Ocasionalmente al hacer dañar una criatura, un orbe rojo caerá y se irá flotando. Coge el orbe, esa es la Sangre de tus enemigos y la que te dará xp de Carnicero.
 
-As you level up your Butchery skill, you'll recharge your Battle Rage quicker, and deal even more damage when it activates.
-An essential trait for any budding warrior!
+Mientras más subas de nivel tu habilidad de Carnicero, se recargará mas rapido tu Furia de Batalla, haciendo mucho más daño al activarse.
+Una característica importante para cada guerrero!
