@@ -1,10 +1,10 @@
-Blood Hunt (Event)
+Caza de Sangre (Evento)
 
 "The hunt for blood has begun!"
-Adventurers beware, the blood hunt is upon us.
-Blood hunt is a nightly event that can happen on some nights in the overworld. When it begins, you will receive the above message - that's your cue to take cover!
+Aventureros, sean advertidos, nosotros somo las presas.
+La Caza de Sangre es un evento nocturno que sucede cada ciertas noches en el Overworld. Cuando comienza, verás un mensaje - la advertencia para que corras.
 
-During the blood hunt, hostile creatures originating from the Abyss break out of their dimension and into ours, seeking to spread the blood of stray adventurers.
-Don't worry though, they don't want to drink your blood; only to spread it across the grass you walk on and celebrate your demise.
+Durante la casa, criaturas hostiles provenientes del Abyss escapan de su dimension a la nuestra, buscando esparcir la sangre de aventureros.
+No te preocupes, no the chuparan la sangre, solo buscan esparcirla por elo pasto mientras te aplastan y celebran tu muerte.
 
-These abyssal creatures prefer to stay in the dark, so once the sun rises they will stop pouring into the world, ending the blood hunt until they break through again.
+Pero estas criaturas abisales viven en la oscuridad, es por eso que una vez que el sol se asome dejaran de entrar a nuestro mundo, terminando la cacería.
