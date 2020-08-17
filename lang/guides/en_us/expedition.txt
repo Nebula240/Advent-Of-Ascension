@@ -1,18 +1,18 @@
-Expedition (Skill)
+Expedicion (Habilidad)
 
-Here's a skill anyone can enjoy. Expedition is a skill based around exploration and movement.
-Whenever you're running around, exploring the lands, you'll occasionally gain some expedition xp. You don't even have to do anything special!
+Una habilidad que todos pueden disfrutar. La Expedicion es una habilidad basada en la exploracion y el movimiento.
+Cada vez que vayas corriendo o explorando el mundo, conseguirás xp. No tienes que hacer nada en especial!
 
-As your expedition level goes up, you'll gain more and more leg power and find that you take less damage from falling down.
+Mientras tu nivel de Expedicion suba, tus piernas se endurecerán, tanto así que comenzarás a tomar menos daño por caida.
 
-Expedition also has a secondary effect. Every now and then while running around, you will be briefly revitalised by your expedition prowess. The exact effect depends on which buff you have chosen in the player menu. Click on the Expedition icon to toggle between effects.
-The power and frequency of this effect increases depending on your Expedition level.
+Expedicion tambien tiene un efecto secundario. De vez en cuando al correr, por un breve momento te sentirás revitalizado para así continuar tu expedicion. El efecto exacto que se otorgará depende del Buff que hayas seleccionado en el menú. Haz click en el icono de Expedition para cambiar ese efecto.
+El Poder y frecuencia de estas habilidades depende del nivel de Expedicion:
 
-Speed:
-  Choose the gust of wind icon to select the speed buff. While running around, you may gain a brief speed boost, allowing you to travel even faster!
+Velocidad:
+  Elige al icono del viento para seleccionar ese buff. Al correr el viento te favorecerá, dandote mas velocidad
 
-Satiation:
-  Choose the food icon to select the satiation buff. While running around, you may suddenly find yourself a little less hungry than before. Stretch your valuable food resources out!
+Saciación:
+  Elige el icono de comida para seleccionar este buff. Al corrrer notarás como no te sientes hambriento, te ayudará a conservar mejor la comida.
 
-Deep Breath:
-  Choose the bubble icon to select the deep breath buff. While swimming, you may suddenly find some additional oxygen to hang onto, allowing you to swim even longer without surfacing.
+Respiro profundo:
+  Elige el icono de burbujas para seleccionar este buff. Al nadar podrás notar como tus pulmones se expanden, conservando mas oxigeno que antes por un corto tiempo.
