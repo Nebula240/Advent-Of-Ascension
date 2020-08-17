@@ -1,9 +1,10 @@
 Anima (Skill)
 
-Anima is a skill based around nature.
+Anima es una habilidad basada en la naturaleza.
 
-You can level up your Anima skill by collecting plants and flowers, breaking leaves, and harvesting grown crops. When you do this, there's a small chance that a blue Anima stone will drop. Pick up this stone to gain a bit of Anima xp, and occasionally a Fragmented Anima Stone.
-Additionally, you can level Anima by activating fragmented anima stones. Fragmented anima stones can be obtained from some traders, and as a reward from other activities. When used on a grass block, it encourages nearby plants and flowers to grow, as well as giving you a bit of Anima xp.
+Puedes subir de nivel tu Anima recolectando plantas, flores, rompiendo hojas y cosechando cultivos. Al hacer esto existe una posibilidad que una piedra azul de Anima sea dropeada.
+Al recolectarla obtendrás xp de Anima, y ocasionalmente puedes conseguir una Piedra Fragmentada de Anima.
+Adicionalmente puedes subir el nivel de Anima activando piedras fragmentadas de anima. Estas piedras se pueden conseguir con ciertos mercaderes o como una recompensa de ciertas actividades. Cuando son usadas en un bloque de pasto ayuda a las plantas a crecer y te da xp de Anima.
 
-These Fragmented Anima Stones can be used to craft powerful tablets, which are very effective tools in almost any situation. Place a tablet down on the ground, and as long as you have sufficient soul power remaining, it will stay activated, giving off a powerful effect to the surrounding area.
-The higher your Anima level, the more tablets you will have available to you!
+Estas Piedras Fragmentadas de Anima pueden ser usadas para crear tabletas muy pdoerosas, las cuales son herramientas muy efectivas en muchas situaciones. Tan solo coloca las tabletas en el suelo y estas se mandentrán activas conforme a cuanto Poder de Alma te quede, dando un efecto poderoso a toda el area.
+Mientras más alto sea tu nivel de Anima, tabletas mas poderosas se irán desbloqueando!
