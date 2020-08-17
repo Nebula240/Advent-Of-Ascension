@@ -1,35 +1,35 @@
-Creature Overhead Icons
+Iconos Sobre Mobs
 
-You may notice that some mobs have some small icons floating above their head. Each of these icons have special meanings, and it's important that you know what each one does.
+Te podras dar cuenta que algunos mobs tienen iconos sobre sus cabezas. Cada uno de estos iconos tiene un significado y es vital conocer lo que cada uno significa.
 
-So what are they?
+Cuales son estos iconos?
 
-The Dual Swords:
-  The swords indicate that the creature is a Hunter creature. This means that the creature cannot normally be attacked without having a high enough Hunter level. You can tell if you have a high enough level if the swords are green. Mobs that are too hard for you will have red swords.
+Las Dos Espadas:
+  Las Dos Espadas indican que la criatura es una criatura Hunter. Esto significa que requieres de cierto nivel para atacar a esa criatura. Si las espadas se ven verdes, significa que tu nivel es adecuado para hacer daño a estas criaturas. Las criaturas con espadas rojas significa que no posees el suficiente nivel para atacarlas.
 
-The Lightning Bolt:
-  A yellow lightning bolt symbol indicates that the creature is immune to blaster weapons.
+El Rayo:
+  Un rayo de color amarillo significa que esa criatura es inmune a las armas Blaster.
 
-The Explosion:
-  An explosion symbol indicates that the creature is immune to explosions and explosive damage.
+La Explosion:
+  El simbolo de explosion indica que la criatura es inmune a las explosiones y al daño por explosion.
+  
+El Fuego:
+  El fuego significa que esa criatura es inmune al fuego y al daño con armas de fuego.
+  
+La Pistola:
+  La pistola significa que esa criatura es inmune a toda arma que use balas. Excluye a los arcos y a los blasters.
+  
+El Espiral Arcoiris:
+  Un espiral colorido significa que esa criatura es inmune al daño magico. Esto es principalmente el daño de los Staves, pero puede incluir otros daños.
+  
+La Espada:
+  Una espada morada significa que esa criatura es inmune al daño cuerpo a cuerpo.
 
-The Fire:
-  A fire symbol indicates that the creature is immune to fire, and fire-based damage.
+El Arco:
+  Un arco significa que esa criatura es inmune al daño de flechas. No incluye armas, blasters ni staves.
 
-The Pistol:
-  A pistol symbol indicates that the creature is immune to gun weapons. This includes normal guns, snipers, cannons, and shotguns, but does not include blasters or bows.
+El Signo de Pregunta:
+  El simbolo de pregunta significa que la criatura tiene cierta inmunidad y habilidades de combate unicas. Esto varía entre mobs, presta mucha atencion!
 
-The Rainbow Spiral:
-  A colourful spiral symbol indicates that the creature is immune to magical attacks and damage. This is primarily for attacks from staves, however it can affect other damage too.
-
-The Single Sword:
-  A single purple sword symbol indicates that the creature is immune to melee damage.
-
-The Bow:
-  A bow symbol indicates that the creature is immune to ranged damage. This includes bows, but not guns, blasters, or staves.
-
-The Question Mark:
-  A red question mark symbol indicates that the creature has special combat mechanics. This will vary between mobs, so pay attention!
-
-The Potion:
-  A potion symbol indicates that the creature is immune to potions and status effects.
+La Pocion:
+  Una pocion significa que la criatura es inmune al daño por pociones.
